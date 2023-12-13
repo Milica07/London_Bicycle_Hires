@@ -1,4 +1,5 @@
-﻿### London_Bicycle_Hires
+
+ ### London_Bicycle_Hires
 #### BigQuery
 
 
@@ -13,5 +14,6 @@ WHERE is the section of a query that indicates any filters you’d like to apply
 
 
 ##### BigQuery: 
+[link name](targetURL)
 Used dataset: London Bicycle Hires dataset from the Greater London Authority -  london bicycle. -> london_bicycles data, table: cycle_hire
-https://console.cloud.google.com/bigquery?sq=993565623922:99242c2cba374cdeaa9d386bf205a438
+[BigQuery](https://console.cloud.google.com/bigquery?sq=993565623922:99242c2cba374cdeaa9d386bf205a438)
